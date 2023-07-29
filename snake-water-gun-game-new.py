@@ -1,3 +1,5 @@
+# Snake Water Gun Game
+
 import random
 
 while True:
